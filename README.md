@@ -33,7 +33,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM :
-math.py
+math.html
 ~~~
 <html>
 
